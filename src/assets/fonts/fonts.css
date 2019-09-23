@@ -1,0 +1,24 @@
+@font-face {
+  font-family: Arial;
+  src: url("arial.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Arial Black;
+  src: url("arialblack.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Georgia;
+  src: url("georgia.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Georgia Bold;
+  src: url("georgiab.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Raleway;
+  src: url("Raleway-Light.ttf") format("truetype");
+}
